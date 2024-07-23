@@ -2,7 +2,7 @@
 # Local Kubernetes and Helm Nginx Deployment
 
 ## Description
-This project demonstrates how to deploy an Nginx application on a local Kubernetes cluster using Minikube and manage it with Helm charts.
+In this project, we will guide you through deploying an Nginx application on a local Kubernetes cluster using Minikube. Additionally, we will demonstrate efficient deployment management using Helm charts.
 
 ## Prerequisites
 - Visual Studio Code (VSC)
